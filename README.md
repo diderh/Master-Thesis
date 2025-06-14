@@ -44,11 +44,15 @@ This R script analyzes the effects of environmental stressors (such as light pol
    - Bayesian/Mixed-effect models to analyze functional indices (richness, dispersion, evenness, Rao’s Q), with diagnostic and conditional effect plots.
 5. Visualization & Export: Generate and save figures for NMDS, boxplots, posterior checks, and model parameter distributions.
 
+---
+
 # Outputs
   - Processed data tables for functional indices and trait assignments.
   - NMDS ordination plots, PERMDISP boxplots, density plots, and conditional effect visualizations.
   - Model summaries and posterior distributions for each functional diversity metric.
   - PNG images of all major plots for reporting.
+
+---
 
 # Conclusion
 This study provides a comprehensive assessment of how environmental stressors, specifically artificial light at night (ALAN) and crayfish presence (alone and in combination), impact the functional diversity of aquatic macroinvertebrate communities over time and across stream positions (upstream, downstream).
@@ -63,5 +67,5 @@ This study provides a comprehensive assessment of how environmental stressors, s
 
 Overall, the results demonstrate that both artificial light and invasive crayfish (individually and together) can significantly alter the functional diversity and trait structure of stream macroinvertebrate communities. These changes are context-dependent, varying by stream location and over time, underscoring the complex ecological impacts of multiple, interacting anthropogenic stressors.
 
-
+---
 
