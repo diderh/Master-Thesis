@@ -70,3 +70,9 @@ Overall, the results demonstrate that both artificial light and invasive crayfis
 
 ---
 
+# Methodology
+
+![finalflowchart drawi](https://github.com/user-attachments/assets/27c25759-25ab-4fbf-a85f-ef530c6cfc8e)
+
+
+
