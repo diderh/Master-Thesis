@@ -35,15 +35,15 @@ This R script analyzes the effects of environmental stressors (such as light pol
 ---
 
 # Workflow Steps
-1. Data Import & Reshaping: Load macroinvertebrate abundance data, convert to long format, and create sample identifiers.
-2. Trait Assignment: Merge sample data with reference trait tables, aggregate taxa, and assign trait values.
-3. Functional Indices Calculation: Compute indices (richness, dispersion, evenness, redundancy, CWMs) using fuzzy-coded trait data.
-4. Statistical Analysis:
+**1. Data Import & Reshaping:** Load macroinvertebrate abundance data, convert to long format, and create sample identifiers.
+**2. Trait Assignment:** Merge sample data with reference trait tables, aggregate taxa, and assign trait values.
+**3. Functional Indices Calculation:** Compute indices (richness, dispersion, evenness, redundancy, CWMs) using fuzzy-coded trait data.
+**4. Statistical Analysis:**
    - NMDS ordination to visualize functional trait patterns.
    - PERMANOVA and PERMDISP to test for differences by treatment/time/position.
    - SIMPER to identify traits contributing most to group differences.
    - Bayesian/Mixed-effect models to analyze functional indices (richness, dispersion, evenness, Rao’s Q), with diagnostic and conditional effect plots.
-5. Visualization & Export: Generate and save figures for NMDS, boxplots, posterior checks, and model parameter distributions.
+**5. Visualization & Export:** Generate and save figures for NMDS, boxplots, posterior checks, and model parameter distributions.
 
 ---
 
